@@ -34,6 +34,8 @@ SplitMerge 是一个简单易用的命令行工具，旨在帮助用户轻松地
 
 - 可定制分割大小（支持 KB/MB/GB）
 - 可以跨系统（如在windows系统上分割，在linux系统上合并）
+- 测试过的系统 windows10，centos7,统信20，麒麟Lylin V10
+- 支持信创系统：统信20（专业版1070，Loongson-3A5000 龙芯CPU），麒麟Lylin V10（海光CPU  Hygon C86 7285） 
 
 ## 快速开始
 
